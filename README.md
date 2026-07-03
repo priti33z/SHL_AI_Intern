@@ -540,6 +540,7 @@ Metrics Observed:
 ![image alt](https://github.com/priti33z/SHL_AI_Intern/blob/main/Screenshot%202026-07-01%20173741.png?raw=true)
 ![image alt](https://github.com/priti33z/SHL_AI_Intern/blob/main/Screenshot%202026-07-03%20143726.png?raw=true)
 ![image alt](https://github.com/priti33z/SHL_AI_Intern/blob/main/Screenshot%202026-07-01%20174112.png?raw=true)
+![image alt](https://github.com/priti33z/SHL_AI_Intern/blob/main/Screenshot%202026-07-03%20151049.png?raw=true)
 
 - Project Structure
 - Swagger UI
