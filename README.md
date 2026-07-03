@@ -1,9 +1,10 @@
 # SHL AI Intern Assignment
 
 ## AI-Powered SHL Assessment Recommendation System
-
+🔗 Try the API:
+https://pritiz-shl-ai-intern.hf.space/docs
 ---
-
+![image alt](https://github.com/priti33z/SHL_AI_Intern/blob/main/banner.png?raw=true)
 ## Overview
 
 This project is an AI-powered recommendation system developed as part of the SHL AI Intern Assignment.
@@ -515,12 +516,30 @@ Open
 ```
 http://127.0.0.1:8000/docs
 ```
+Evaluation
+
+The system was evaluated manually using representative hiring queries.
+
+Test Cases:
+- Hiring a Java developer
+- Hiring a Python developer
+- Hiring freshers
+- Comparing two assessments
+- Ambiguous hiring query requiring clarification
+
+Metrics Observed:
+- Retrieval quality
+- Recommendation relevance
+- Groundedness (recommendations based on SHL catalog)
+- Conversational accuracy
 
 ---
 
 # Screenshots
 
-(Add screenshots here)
+![image alt](https://github.com/priti33z/SHL_AI_Intern/blob/main/Screenshot%202026-07-01%20173741.png?raw=true)
+![image alt](https://github.com/priti33z/SHL_AI_Intern/blob/main/Screenshot%202026-07-03%20143726.png?raw=true)
+![image alt](https://github.com/priti33z/SHL_AI_Intern/blob/main/Screenshot%202026-07-01%20174112.png?raw=true)
 
 - Project Structure
 - Swagger UI
